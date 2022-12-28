@@ -1,5 +1,5 @@
 {
-  "name": "@bhavanarajakram/publishnpmpkg",
+  "name": "@bhavanarajakram/publicnpmpkg",
   "publishConfig": {
     "registry": "https://npm.pkg.github.com/bhavanarajakaram"
   },
